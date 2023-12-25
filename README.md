@@ -19,4 +19,5 @@
 - 어종(魚種) 식별 및 분류 알고리즘 개발.pdf 참조
 
 ## 모델 성능 지표
-![스크린샷 2023-11-09 204809](https://github.com/DYDevelop/2023-Samsung-AI-Challenge/assets/55197580/6b71c9d7-b372-496d-9601-dc1cb6bd6593)
+<img width="1077" alt="image" src="https://github.com/DYDevelop/2023-Samsung-AI-Challenge/assets/55197580/2f5286df-9d18-4142-a62e-a6db8942cf8b">
+
